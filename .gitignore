@@ -1,4 +1,5 @@
 *.o
 *.bin
 *.hex
-bin2hex
+/build
+.cache/
